@@ -17,6 +17,7 @@
     background-color: aqua;
     font-weight: bolder;
     font-size: 30px;
+    height: 17vh;
 }
 #sonuc{
     background-color: red;
@@ -29,5 +30,6 @@ a{
     text-decoration: none;
     font-size: 25px;
     margin-left: 45%;
+    line-height: 50px;
     color: chocolate;
 }
